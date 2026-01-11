@@ -1,4 +1,4 @@
-# Autonomous Mobile Robot with Local Decision-Making
+# Decision-Making Autonomous Robot
 
 ## General Description
 
