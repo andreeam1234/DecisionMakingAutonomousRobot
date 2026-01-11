@@ -185,7 +185,7 @@ This project is **not a tutorial** because:
 **No.**
 ---
 
-## 7. Finite State Machine Design
+## Finite State Machine Design
 
 ### State Machine Diagram
 ```
@@ -275,7 +275,7 @@ This 10cm hysteresis prevents rapid state switching due to sensor noise.
 
 ---
 
-## 9. Failure Modes & Recovery Strategies
+## Failure Modes & Recovery Strategies
 
 ### HC-SR04 Sensor Constraints
 
@@ -316,7 +316,7 @@ This 10cm hysteresis prevents rapid state switching due to sensor noise.
 
 ---
 
-## 10. Demo Levels
+## Demo Levels
 
 | Demo Level | Description | Success Criterion |
 |------------|-------------|-------------------|
