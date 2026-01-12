@@ -10,12 +10,6 @@ The robot operates as a **self-contained embedded system**:
 * Controls actuators in real time
 * Does not depend on external computation, networking, or cloud services
 
-The goal of this project is not complexity, but **architectural correctness**:
-* Choosing the right platform
-* Defining a clear system boundary
-* Placing intelligence in a single, well-defined location
-* Solving one meaningful technical problem well
-
 ## System Architecture
 
 ### System Block Diagram
